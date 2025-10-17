@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi there, I'm [Your Name]!
 
-<!--
-**rifdanhd/rifdanhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Informatics student passionate about coding, technology, and creative projects.  
+Currently learning **Web Development**, **Mobile Apps**, and exploring **Artificial Intelligence**.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- Languages: JavaScript, Dart, Python, C++
+- Frameworks: Flutter, Node.js
+- Tools: Git, VS Code, Postman, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Flutter for mobile apps  
+- REST API integration  
+- UI/UX design basics  
+
+### 📫 Let's Connect!
+- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [Your LinkedIn Profile]
+- Instagram: [@yourhandle]
+
+_"Keep learning, keep building!"_
