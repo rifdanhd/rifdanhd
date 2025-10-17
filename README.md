@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm [Your Name]!
+## 👋 Hi there, I'm [Muhammad Rifdan Dermawan]!
 
 I'm an Informatics student passionate about coding, technology, and creative projects.  
 Currently learning **Web Development**, **Mobile Apps**, and exploring **Artificial Intelligence**.
